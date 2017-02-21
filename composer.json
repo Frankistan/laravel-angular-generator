@@ -1,5 +1,5 @@
 {
-    "name": "laravel-angular/generators",
+    "name": "frankistan/laravel-angular-generators",
     "description": "Angular 1.x generators for Laravel 5.4",
     "license": "MIT",
     "authors": [
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "LaravelAngular\\Generators\\": "src"
+            "Frankistan\\LaravelAngular\\Generators\\": "src"
         }
     },
     "minimum-stability": "dev"
